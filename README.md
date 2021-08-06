@@ -10,6 +10,8 @@
 
 - 📫 How to reach me [erdinckurt@outlook.com](mailto:erdinckurt@outlook.com)
 
+- 📄 Know about my experiences [My Resume](https://erdinckurt.github.io/assets/pdf/Erdinc%20Kurt%20Resume.pdf)
+
 - ⚡ Fun fact: I like watching movies and listening to music.
 
 
@@ -19,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/erdinckurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdinckurt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erdinckurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erdinckurt" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14893020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14893020" height="30" width="40" /></a>
-<a href="https://codepen.io/erdinckurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erdinckurt" height="30" width="40" /></a>
-<a href="https://instagram.com/_erdinckurt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_erdinckurt" height="30" width="40" /></a>
-<a href="https://letterboxd.com/erdinc_/" target="_blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="erdinc_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erdinckurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erdinckurt" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/erdinckurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erdinckurt" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14893020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14893020" height="30" width="40" /></a>
+<a href="https://codepen.io/erdinckurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="erdinckurt" height="30" width="40" /></a>
+<a href="https://instagram.com/_erdinckurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_erdinckurt" height="30" width="40" /></a>
+<a href="https://letterboxd.com/erdinc_/" target="blank"><img align="center" src="https://a.ltrbxd.com/logos/letterboxd-decal-dots-pos-rgb.svg" alt="erdinc_" height="30" width="40" /></a>
 </p>
 
 
