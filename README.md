@@ -2,7 +2,7 @@
 <h3 align="center">I’m a junior front-end developer based in Ankara, Turkey.</h3>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/erdinckurt?tab=repositories)
 
